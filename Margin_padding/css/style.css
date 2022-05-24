@@ -1,0 +1,21 @@
+#exemplo{
+    background-color: green;
+    color: #fff;
+    width: 500px;
+    padding-top: 10px;  
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* Padding é um espaçamento interno */
+
+#exemplo2{
+    background-color: red;
+    color: #fff;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
