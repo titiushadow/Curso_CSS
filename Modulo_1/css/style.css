@@ -1,4 +1,4 @@
-/* Seletor universal */
+/* Seletor universal
 *{
     margin: 0;
     padding: 0;
@@ -36,4 +36,21 @@ input[type="submit"] {
     cursor: pointer;
     color: #fff;
 
+} */
+
+
+ /* Aula 4 agrupamento CSS */
+h1 {
+    color:green;
+    text-align: center;   
+}
+
+h2 {
+    color:red;
+    text-align: center;
+}
+
+p {
+    color:purple;
+    text-align: justify;
 }
