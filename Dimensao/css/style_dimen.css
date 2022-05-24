@@ -1,0 +1,8 @@
+/* Podemos também trabalhar com % ao inves de px */
+#conteudo{
+    background-color: red;
+    color: #fff;
+    padding: 20px;
+    width: 500px;
+    height: 50px;
+}
