@@ -1,0 +1,24 @@
+p {
+    color: red;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 30px;
+}
+
+h1 {
+    text-align: left;
+    text-decoration:underline;
+    text-shadow: 3px 3px 4px blue;
+}
+
+h2 {
+    text-align: right;
+    text-decoration: overline;
+
+}
+
+h3 {
+    text-align: center;
+    text-decoration: line-through;
+}
