@@ -1,0 +1,18 @@
+#cores {
+    width: 200px;
+    height: 200px;
+    color:yellow;
+    background-color:hsla(20, 100%, 59%, 0.8);
+}
+
+#gradient {
+    width: 200px;
+    height: 200px;
+    background:linear-gradient(to top left,red,black, green);
+}
+
+#radial {
+    width: 200px;
+    height: 200px;
+   background:radial-gradient(red,black);
+} 
