@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    width: 100vw;
+    height: calc(100vw - 80px);
+    background-color: red;
+    background-image:url(/IMG/escritorio.jpg);
+    background-size:cover;
+}
+
+nav {
+    width: 100vw;
+    height: 80px;
+    background-color: blue;
+}
