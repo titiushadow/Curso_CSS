@@ -1,0 +1,23 @@
+:root {
+    --bg-color: blue;
+    --cor-do-texto: #fff;
+    --espacamento: 20px; 
+}
+
+#div1 {
+    background-color: var(--bg-color);
+    color: var(--cor-do-texto);
+    padding: var(--espacamento);
+}
+
+#div2 {
+    background-color: var(--bg-color);
+    color: var(--cor-do-texto);
+    padding: var(--espacamento);
+}
+
+#div3 {
+    background-color: var(--bg-color);
+    color: var(--cor-do-texto);
+    padding: var(--espacamento);
+}
