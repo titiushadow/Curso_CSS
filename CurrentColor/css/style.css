@@ -1,0 +1,11 @@
+*{
+    background-color: blue;
+}
+
+button {
+    background-color: white;
+    color: red;
+    width: 100px;
+    height: 50px;
+    border: 2px solid currentColor;
+}
