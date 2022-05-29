@@ -1,0 +1,15 @@
+body {
+    background-image:url(/IMG/do_time.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+p{
+    width: 300px;
+    height: 250px;
+    background-color: red;
+    color: black;
+    text-align: justify;
+}
