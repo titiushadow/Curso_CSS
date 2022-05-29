@@ -1,0 +1,3 @@
+# Curso_CSS
+
+Este curso contem os conceitos básicos do CSS. Degradês, transições, animações, fontes externas...
