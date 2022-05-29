@@ -1,0 +1,17 @@
+img {
+    margin: 40px 0 0 60px;
+    filter: drop-shadow(10px 20px 5px #000);
+}
+
+/* Filtros CSS
+blur()
+brightness()
+contrast()
+grayscale()
+invert()
+opacity()
+saturate()
+sepia()
+hue-rotate()
+drop-shadow()
+ */
